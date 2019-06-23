@@ -1,2 +1,0 @@
-# Pineapples
-Created with CodeSandbox
